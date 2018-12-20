@@ -5,3 +5,6 @@ Conversion functions needed:
 - Hours to Minutes
 - Feet to Inches
 - Inches to cm
+
+Dollors to Centers=100
+
